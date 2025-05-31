@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Xin chào! Mình là Quang – người xây dựng AI ƠI!
 
-<!--
-**quang06091988/quang06091988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quang06091988/ai-oi-app/main/public/ai-oi-preview.webp" alt="AI ƠI!" width="600" />
+</p>
 
-Here are some ideas to get you started:
+🌟 Mục tiêu: Phổ cập AI thực tế cho người mới tại Việt Nam
+🌱 Mình đang phát triển: [AI ƠI! – Trải nghiệm AI đầu tiên của bạn](https://ai-oi.app.vercel.app)
+🛠 Công nghệ: React, Supabase, GPT-4o, Tailwind, TypeScript
+🚀 Đang build in public tại GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Các dự án nổi bật
+
+* [🌟 AI ƠI! – Trải nghiệm AI đầu tiên của bạn](https://github.com/quang06091988/ai-oi-app)
+* [🔗 Web3Me – Hồ sơ Real User trong Web3](https://github.com/quang06091988/web3me)
+* [🎀 NFTơi – Tặng quà cảm xúc dưới dạng NFT](https://github.com/quang06091988/nftoi)
+
+---
+
+📬 Kết nối với mình tại: [facebook.com/quangtrending](https://facebook.com/quangtrending)
