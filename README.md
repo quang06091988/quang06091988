@@ -5,7 +5,7 @@
 </p>
 
 🌟 Mục tiêu: Phổ cập AI thực tế cho người mới tại Việt Nam
-🌱 Mình đang phát triển: [AI ƠI! – Trải nghiệm AI đầu tiên của bạn](https://ai-oi.app.vercel.app)
+🌱 Mình đang phát triển: [AI ƠI! – Trải nghiệm AI đầu tiên của bạn](https://ai-oi-app.vercel.app)
 🛠 Công nghệ: React, Supabase, GPT-4o, Tailwind, TypeScript
 🚀 Đang build in public tại GitHub
 
